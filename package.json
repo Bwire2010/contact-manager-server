@@ -4,7 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "json-server --watch db.json -p 9000"
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bwire2010/contact-manager-server.git"
   },
   "keywords": [],
   "author": "",
